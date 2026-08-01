@@ -401,3 +401,7 @@ Offset: 0    1   2    3     4     5-6   7    8-9   10   11    12   13
 Field:  ADDR LEN CMD  STA1  STA2  CURR  RAT  SPEED CAP  STA3  RNG  XOR
 Value:  0x02 14  0x01 bit   bit   cf.2.3 %    cf.2.5 %    bit   Km   XOR
 ```
+
+---
+
+*STARADIO EBIKE — 2026. Confidential & Proprietary.*

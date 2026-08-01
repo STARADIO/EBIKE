@@ -245,3 +245,7 @@ const unsigned char password[64] = {
 | S Transmit | `0x1A` | `'S'(0x53)` | `0x07` | PAS + Speed + Undervoltage + Current Limit + Handshake + Speed Limit |
 | R Transmit | `0x1A` | `'R'(0x52)` | `0x02` | Max PWM + Status |
 | Reply | `0x1A` | `cc`(as-is) | `0x05` | Status + Current + Speed + Password / Fault Code |
+
+---
+
+*STARADIO EBIKE — 2026. Confidential & Proprietary.*
