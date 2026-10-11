@@ -1,4 +1,4 @@
-# S26-PRO-D
+# S26-PRO-D — 26" Premium Snow Fat-Tire Electric Bike, 1000W Dual-Drive AWD
 
 **Premium Snow Dual-Drive** — 26" × 4.0 · 52 V · 1000 W AWD
 

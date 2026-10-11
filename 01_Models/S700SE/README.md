@@ -1,4 +1,4 @@
-# S700SE
+# S700SE — 19" Electric Moped, 1500W Rear Hub, 52V 25Ah
 
 **Moped Economy** — 19 inch · 52 V · 1500 W rear hub
 

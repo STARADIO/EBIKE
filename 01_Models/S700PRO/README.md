@@ -1,4 +1,4 @@
-# S700PRO
+# S700PRO — 19" Performance Electric Moped, 3000W Peak, 60V 35Ah
 
 **Moped Flagship** — 19 inch · 60 V · 3000 W peak rear hub
 

@@ -42,10 +42,13 @@ public and permanent.
 
 > ⚠️ **Supplier names hide in plain sight — in pinyin, not just Chinese.** A spec
 > table that looks like pure engineering data can carry a supplier in the last
-> column as a romanised name: a battery pack described as "52 V 25 Ah · *Pengxin*",
-> a controller as "60 V 60 A (*Zhixun*)", cells as "*DMEGC* 21700". These read as
-> component specifications and pass a glance. Strip the column before publishing,
-> and scan for romanised names — not only for supplier words in Chinese.
+> column as a romanised name: a battery pack listed as `52 V 25 Ah · <supplier>`,
+> a controller as `60 V 60 A (<supplier>)`, cells as `<supplier> 21700`. These read
+> as component specifications and pass a glance. Strip the column before
+> publishing, and scan for romanised names — not only for supplier words in Chinese.
+>
+> Note also that naming a rule's examples is not a loophole: do not paste real
+> supplier names into this file to make the point.
 
 ---
 

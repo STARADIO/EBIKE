@@ -1,4 +1,4 @@
-# S5
+# S5 — 26" Mountain Electric Bike, 350W Rear Hub, 48V
 
 **Mountain E-Bike** — 26 inch x 2.125 · 48 V · 350 W
 

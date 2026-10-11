@@ -1,4 +1,4 @@
-# S6
+# S6 — 26" City Step-Through Electric Bike, 350W Rear Hub, 48V
 
 **City Step-Through E-Bike** — 26 inch x 2.125 · 48 V · 350 W
 

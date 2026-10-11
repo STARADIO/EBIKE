@@ -1,4 +1,4 @@
-# S8-D
+# S8-D — 20" Fat-Tire Snow Electric Bike, 1000W Dual-Drive AWD
 
 **Snow Fat-Tire Dual-Drive** — 20 inch x 4.0 · 48 V · 1000 W AWD
 

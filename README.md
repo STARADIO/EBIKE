@@ -1,12 +1,14 @@
 <div align="center">
+<img src="05_Assets/STARADIO_Logo_Red_PNG.png" alt="STARADIO electric bikes" width="420">
+</div>
 
-<img src="05_Assets/STARADIO_Logo_Red_PNG.png" alt="STARADIO" width="420">
+# STARADIO Electric Bikes — Fat-Tire Snow & Dual-Drive AWD
 
-**Seven e-bikes. One obsession — nothing that doesn't hold up.**
+**Fat-Tire Snow · Dual-Drive AWD · Commuter · Mountain · Moped**
+
+Seven models. One obsession — nothing that doesn't hold up.
 
 [Website](https://staradiobikes.com) · [Contact](https://staradiobikes.com)
-
-</div>
 
 ---
 
@@ -106,7 +108,5 @@ If you are a prospective distributor or reseller, the
 ---
 
 <div align="center">
-
-**STARADIO** — [staradiobikes.com](https://staradiobikes.com)
-
+<strong>STARADIO</strong> — <a href="https://staradiobikes.com">staradiobikes.com</a>
 </div>

@@ -1,4 +1,4 @@
-# S700SE-D
+# S700SE-D — 20" Snow Moped Electric Bike, 1000W Dual-Drive AWD
 
 **Snow Moped Dual-Drive** — 20 inch x 4.0 · 52 V · 1000 W AWD
 
