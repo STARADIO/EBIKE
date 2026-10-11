@@ -64,8 +64,13 @@ or book a test ride.**
 
 ## Photos
 
-Product photography for this model is in production. Ask us for the current
-imagery.
+5 renders in [Photos/](Photos/).
+
+> The S700SE and S700PRO share the same chassis and bodywork and differ only in
+> battery and motor, so these renders show both models accurately.
+
+> ⚠️ These are **product renders**, not photography, and the finish shown may differ
+> slightly from the delivered bike. Photography is in production.
 
 ---
 

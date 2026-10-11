@@ -1,6 +1,6 @@
-﻿<div align="center">
+<div align="center">
 
-# STARADIO EBIKE
+<img src="05_Assets/STARADIO_Logo_Red_PNG.png" alt="STARADIO" width="420">
 
 **Seven e-bikes. One obsession — nothing that doesn't hold up.**
 

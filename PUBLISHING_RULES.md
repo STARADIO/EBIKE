@@ -40,6 +40,13 @@ public and permanent.
 > across. Treat "it exists in our internal docs" as irrelevant to whether it may be
 > published — check it against this page first.
 
+> ⚠️ **Supplier names hide in plain sight — in pinyin, not just Chinese.** A spec
+> table that looks like pure engineering data can carry a supplier in the last
+> column as a romanised name: a battery pack described as "52 V 25 Ah · *Pengxin*",
+> a controller as "60 V 60 A (*Zhixun*)", cells as "*DMEGC* 21700". These read as
+> component specifications and pass a glance. Strip the column before publishing,
+> and scan for romanised names — not only for supplier words in Chinese.
+
 ---
 
 ## Speed claims
