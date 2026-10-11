@@ -46,8 +46,9 @@ legally comply with**, not what a controller or motor datasheet claims in passin
   for U.S. Class 3, 25 km/h for the EU/UK.
 - The display itself can only enforce limits up to **50 km/h** (50 = unlimited).
   A figure above that cannot be enforced and must not be published.
-- Example — S26-PRO-D: the controller datasheet claimed 80 km/h, but the display
-  cannot enforce it. Published figure is **45 km/h**.
+- Where a model's compliant limit is not yet verified, publish **no number** at all.
+  Invite the reader to test-ride. Do not publish a datasheet figure "for reference"
+  and do not carry a number across from a previous revision.
 
 ---
 
@@ -101,13 +102,14 @@ EBIKE/
 | S6 | City Step-Thru | 48V 9Ah | 48V 350W | 26×2.125 | 35 km/h |
 | S8-D | Snow Dual | 48V 25Ah | 48V 1000W AWD | 20×4.0 | 45 km/h |
 | S26-PRO-D | Premium Snow Dual | 52V 18Ah | 52V 1000W AWD | 26×4.0 | 45 km/h |
-| S700PRO | Moped Flagship | 60V 27.5Ah | 60V 3000W | 70/100-19 | ⚠️ pending verification |
-| S700SE | Moped Economy | 52V 18Ah | 52V 1500W | 70/100-19 | ⚠️ pending verification |
+| S700PRO | Moped Flagship | 60V 27.5Ah | 60V 3000W | 70/100-19 | Set per market — book a test ride |
+| S700SE | Moped Economy | 52V 18Ah | 52V 1500W | 70/100-19 | Set per market — book a test ride |
 | S700SE-D | Snow Moped Dual | 52V 18Ah | 52V 1000W AWD | 20×4.0 | 45 km/h |
 
-> ⚠️ **Figures marked *pending verification* must not be published anywhere** — not
-> in the spec sheet, not in a product page, not in video. Verify the deliverable
-> speed and the legal limit per market first, then replace with the real number.
+> **Only compliant figures are published.** Every top-speed value in this repo is the
+> factory-set legal limit for the destination market. Where a model's verified limit is
+> not yet confirmed, **no number is published at all** — we invite the reader to
+> test-ride rather than quote a figure we cannot stand behind.
 
 ---
 
