@@ -1,0 +1,65 @@
+# ============================================================================
+# STARADIO EBIKE — public marketing repo
+#
+# ⛔ THIS REPO IS A SHOP WINDOW. It is published on GitHub.
+#    Supplier quotations, BOM files and supplier contact details must NEVER
+#    be committed here. The authoritative rules are in README.md
+#    ("Publishing Rules").
+#
+# ⚠️ A filename filter is only a speed bump, not a security control — anyone
+#    can rename a file to get past it. The real rule is: if in doubt, it does
+#    not go in.
+# ============================================================================
+
+# --- supplier quotations / factory price lists -----------------------------
+*Quotation*
+*quotation*
+*Quotation*
+*报价*
+*价格*
+*PriceList*
+*pricelist*
+
+# --- bills of materials ----------------------------------------------------
+*BOM*
+*bom_*
+*BillOfMaterials*
+*物料清单*
+
+# --- supplier / factory contact details ------------------------------------
+*Supplier*
+*supplier*
+*Contact*
+*联系方式*
+*通讯录*
+
+# --- internal commercial data ----------------------------------------------
+*Cost*
+*cost*
+*Margin*
+*margin*
+*Freight*
+*物流*
+
+# --- customer / order data -------------------------------------------------
+*Order*
+*order*
+*Customer*
+*客户*
+
+# --- OS / editor junk ------------------------------------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+.~lock.*
+*.tmp
+
+# ============================================================================
+# NOTE — deliberately NOT ignored:
+#   01_Models/**/Photos/  product photography, this is the point of the repo
+#   02_Specs/             publishable spec / parameter sheets
+#   03_Brand/, 05_Assets/ brand identity and logos
+#   04_Technical/         supplier technical protocol documents (no commercial
+#                         data — these are interface specs, safe to publish)
+# ============================================================================
